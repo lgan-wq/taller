@@ -10,6 +10,7 @@
   <body>
   <div class="container fluid" style="background:blue; text-align:center">
   <h2> Bieveidos al Itsao</h2>
+  <h1> Luis Angel Mejia Gil</h1>
   <img src="Cliente/img/itsao_top.png">
     </div>
 
